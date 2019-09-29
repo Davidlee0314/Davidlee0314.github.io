@@ -1,0 +1,8 @@
+{
+  "name": "Davidlee0314",
+  "short_name": "Davidlee0314",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
+}
